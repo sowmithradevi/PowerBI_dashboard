@@ -1,22 +1,30 @@
-# Power BI linkedin dataset Dashboard
+# Power BI Dashboards Portfolio
 
-## Overview
-This dashboard provides insights into job title,employment type analysis using Power BI.
+This repository contains multiple Power BI dashboards built for various business and data analysis purposes.
 
-## Features
-- Monthly job dataset
-- Employment type
-- Location
-- Company
+## 📊 Dashboards
 
-## How to Use
-1. Download the `.pbix` file.
-2. Open it in Power BI Desktop.
-3. Update the data source if required.
+### 1. [LinkedIn Dataset Dashboard]
+- Job roles
+- Work mode
 
+### 2. [Sales Dashboard]
+- Monthly sales trend
+- Top-performing products
+- Regional analysis
 
+### 3. [Exhaustive Analysis of Indian Agricultural Sector Using Power BI]
+- Crop production
+- Crop range
+- Seasons 
+- State wise analysis
 
-## Tools Used
+## 🚀 Tools Used
 - Power BI Desktop
 - Excel
+- Power Query
+- Data Modeling
+
+
+
 
